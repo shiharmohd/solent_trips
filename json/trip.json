@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Trip001",
+        "start_date": "2022/05/31",
+        "travellers": "roshan",
+        "duration": "One-day trip",
+        "coordinator": "shihar",
+        "contact": "234234"
+    },
+    {
+        "name": "Trip002",
+        "start_date": "2022/6/23",
+        "travellers": "kasun",
+        "duration": "Weekend trip",
+        "coordinator": "shihar",
+        "contact": "24234234"
+    },
+    {
+        "name": "Trip003",
+        "start_date": "2022/06/10",
+        "travellers": "kavishka",
+        "duration": "One-day trip",
+        "coordinator": "shihar",
+        "contact": "132213213"
+    },
+    {
+        "name": "Trip004",
+        "start_date": "2022/06/10",
+        "travellers": "kavishka",
+        "duration": "One-day trip",
+        "coordinator": "shihar",
+        "contact": "132213213"
+    }
+]

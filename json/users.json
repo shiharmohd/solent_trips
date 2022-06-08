@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "name": "Kumara Roshan",
+        "user_type": "Administrator",
+        "username": "admin",
+        "password": "admin"
+    },
+    {
+        "id": "2",
+        "name": "Shihar Mohamed",
+        "user_type": "Manager",
+        "username": "shihar",
+        "password": "123"
+    }
+    ,
+    {
+        "id": "3",
+        "name": "Jhon David",
+        "user_type": "Coordinator",
+        "username": "john",
+        "password": "123"
+    }
+]
